@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|c:\\users\\tupro\\desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\product management\\product management\\classes\\databaseprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|solutionrelative:product management\\classes\\databaseprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|c:\\users\\tupro\\desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\product management\\product management\\product management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|solutionrelative:product management\\product management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|c:\\users\\tupro\\desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\product management\\product management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|solutionrelative:product management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\product management\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|solutionrelative:product management\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\product management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8E2E28-E00A-4070-8CF2-3A67A3B1246B}|Product Management\\Product Management.csproj|solutionrelative:product management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseProcess.cs",
+              "DocumentMoniker": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\classes\\DataBaseProcess.cs",
+              "RelativeDocumentMoniker": "Product Management\\classes\\DataBaseProcess.cs",
+              "ToolTip": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\classes\\DataBaseProcess.cs",
+              "RelativeToolTip": "Product Management\\classes\\DataBaseProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:00:48.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product Management",
+              "DocumentMoniker": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\Product Management.csproj",
+              "RelativeDocumentMoniker": "Product Management\\Product Management.csproj",
+              "ToolTip": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\Product Management.csproj",
+              "RelativeToolTip": "Product Management\\Product Management.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T06:00:12.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\Form1.cs",
+              "RelativeDocumentMoniker": "Product Management\\Form1.cs",
+              "ToolTip": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\Form1.cs [Design]",
+              "RelativeToolTip": "Product Management\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:24:07.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Product Management\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\Form1.Designer.cs",
+              "RelativeToolTip": "Product Management\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:24:06.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\Form1.cs",
+              "RelativeDocumentMoniker": "Product Management\\Form1.cs",
+              "ToolTip": "C:\\Users\\tupro\\Desktop\\year-3-semester-1\\winform-programming\\homework\\week-4\\test\\Product Management\\Product Management\\Form1.cs",
+              "RelativeToolTip": "Product Management\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:24:03.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

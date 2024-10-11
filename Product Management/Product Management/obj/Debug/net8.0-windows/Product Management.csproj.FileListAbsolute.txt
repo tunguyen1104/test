@@ -1,0 +1,50 @@
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\TH4_CoSoDuLieu.frmMatHang.resources
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.csproj.GenerateResource.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.AssemblyInfoInputs.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.AssemblyInfo.cs
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.csproj.CoreCompileInputs.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.sourcelink.json
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.csproj.AssemblyReference.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.exe
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.deps.json
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.runtimeconfig.json
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.pdb
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product .18ADA7BF.Up2Date
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\refint\Product Management.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.pdb
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.genruntimeconfig.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\Product Management\Product Management\obj\Debug\net8.0-windows\ref\Product Management.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.exe
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.deps.json
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.runtimeconfig.json
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\Product Management.pdb
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.csproj.AssemblyReference.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\TH4_CoSoDuLieu.frmMatHang.resources
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.csproj.GenerateResource.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.AssemblyInfoInputs.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.AssemblyInfo.cs
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.csproj.CoreCompileInputs.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.sourcelink.json
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product .18ADA7BF.Up2Date
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\refint\Product Management.dll
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.pdb
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\Product Management.genruntimeconfig.cache
+C:\Users\tupro\Desktop\year-3-semester-1\winform-programming\homework\week-4\test\Product Management\Product Management\obj\Debug\net8.0-windows\ref\Product Management.dll
