@@ -1,0 +1,36 @@
+CREATE DATABASE DuLieu2;
+USE DuLieu2;
+
+CREATE TABLE tblChatLieu (
+    MaChatLieu NVARCHAR(10) PRIMARY KEY,
+    TenChatLieu NVARCHAR(50) NOT NULL
+);
+
+CREATE TABLE tblHang (
+    MaHang NVARCHAR(10) PRIMARY KEY,
+    TenHang NVARCHAR(100) NOT NULL,
+    MaChatLieu NVARCHAR(10),
+    DonGiaNhap nvarchar(8) NOT NULL,
+    DonGiaBan nvarchar(8) NOT NULL,
+    SoLuong int,
+    Anh ntext NULL,
+    GhiChu ntext
+    FOREIGN KEY (MaChatLieu) REFERENCES tblChatLieu(MaChatLieu)
+);
+
+INSERT INTO tblChatLieu (MaChatLieu, TenChatLieu) VALUES
+('CL001', N'Gỗ'),
+('CL002', N'Kim loại'),
+('CL003', N'Nhựa');
+
+INSERT INTO tblHang (MaHang, TenHang, MaChatLieu, DonGiaNhap, DonGiaBan, SoLuong, Anh, GhiChu) VALUES
+('H001', N'Bàn làm việc', 'CL001', '500000', '600000', 50, NULL, N'Bàn gỗ chất lượng cao'),
+('H002', N'Ghế văn phòng', 'CL001', '300000', '400000', 30, NULL, N'Ghế da cao cấp'),
+('H003', N'Tủ sách', 'CL001', '700000', '800000', 20, NULL, N'Tủ sách bằng gỗ'),
+('H004', N'Bàn học sinh', 'CL001', '400000', '500000', 40, NULL, N'Bàn học sinh gỗ tự nhiên'),
+('H005', N'Máy tính', 'CL002', '1500000', '1800000', 100, NULL, N'Máy tính xách tay'),
+('H006', N'Điện thoại', 'CL002', '1000000', '1200000', 200, NULL, N'Điện thoại thông minh'),
+('H007', N'Loa bluetooth', 'CL002', '800000', '1000000', 150, NULL, N'Loa Bluetooth chất lượng cao'),
+('H008', N'Dây điện', 'CL002', '20000', '30000', 500, NULL, N'Dây điện chống cháy'),
+('H009', N'Chậu cây nhựa', 'CL003', '50000', '70000', 300, NULL, N'Chậu cây nhựa bền đẹp'),
+('H010', N'Ống nhựa PVC', 'CL003', '120000', '150000', 200, NULL, N'Ống nhựa PVC bền chắc');
